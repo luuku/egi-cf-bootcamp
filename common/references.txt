@@ -1,0 +1,4 @@
+Someone (2000) Aap Noot Mies
+
+Fagan (1976) Design and Code Inspections to reduce errors in program development.
+Cohen (2006) Best kept secrets of Code Review
